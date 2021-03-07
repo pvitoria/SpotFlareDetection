@@ -16,6 +16,7 @@ Matlab
 git clone https://github.com/pvitoria/SpotFlareDetection
 ```
 
+Code coming soon.
 
 ## Citation
 If you use this code for your research, please cite our paper <a href="https://link.springer.com/article/10.1007/s10851-018-0859-0"> Automatic Flare Spot Artifact Detection and Removal in Photographs</a>:
