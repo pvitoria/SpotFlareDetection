@@ -1,5 +1,5 @@
 # Automatic Flare Spot Artifact Detection and Removal in Photographs
-Official Matlab Implementation of Automatic Flare Spot Artifact Detection and Removal in Photographs [<a href="https://link.springer.com/article/10.1007/s10851-018-0859-0">JMIV</a>] 
+Official Matlab Implementation of Automatic Flare Spot Artifact Detection and Removal in Photographs [<a href="https://link.springer.com/article/10.1007/s10851-018-0859-0">JMIV</a>] [<a href="https://arxiv.org/abs/2103.04384">ArXiv</a>]
 
 
 
